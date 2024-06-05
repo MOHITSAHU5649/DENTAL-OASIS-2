@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>DENTITION Health Bot Web Chat</title>
+    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <style>
+        #webchat {
+            height: 500px;
+            width: 100%;
+        }
+        body {
+            background-image: url('C:\Users\user\OneDrive\Desktop\PROJECT AYUSH\web\images\ayush_background..jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+           
+            
+   
+            background: linear-gradient(to right, #2e262d, #141313);
+            font-family: Arial, sans-serif;
+        }
+        .iframe-container {
+            width: 50%;
+            min-width: 300px;
+            background: #000000;
+            border-radius: 15px;
+            box-shadow: 0 10px 8px rgba(19, 204, 127, 0.1);
+            overflow: hidden;
+            padding: 20px;
+        }
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+            border-radius: 10px;
+        }
+        
+        .styled-paragraph {
+            background: rgba(14, 66, 143, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 600px;
+            line-height: 1.6;
+            font-size: 18px;
+            color: #333;
+            border-left: 5px solid #075baf;
+            margin: 20px;
+            text-align: justify;
+        }
+        .styled-paragraph h1{
+            color: #faafaf;
+            margin-top: 0;
+        }
+        .styled-paragraph h2 {
+            color: #a3e0dd;
+            margin-top: 0;
+        }
+        .styled-paragraph h3 {
+            color: #e5bede;
+            margin-top: 0;
+        }
+
+
+    </style>
+    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+</head>
+<body>
+        <!-- header -->
+        <header id="site-header" class="fixed-top">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <a class="navbar-brand" href="index.html">
+                        <i class="fas fa-tooth"></i>DENTAL OASIS
+                    </a>
+                    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                        <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarScroll">
+                     
+                        <ul class="navbar-nav ms-auto me-2 my-2 my-lg-0 navbar-nav-scroll">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.html">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="services.html">Services</a>
+                            </li>
+                             <li class="nav-item">
+                                <a class="nav-link" href="bot.html">Healthbot</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.html">Contact</a>
+                            </li>
+                            
+                        </ul>
+                    
+                        <!-- <form action="#error" method="GET" class="d-flex search-header">
+                            <input class="form-control" type="search" placeholder="Enter Keyword..." aria-label="Search"
+                                required>
+                            <button class="btn btn-style" type="submit"><i class="fas fa-search"></i></button>
+                        </form> -->
+                    </div>
+                    <!-- toggle switch for light and dark theme -->
+                    <div class="cont-ser-position">
+                        <nav class="navigation">
+                            <div class="theme-switch-wrapper">
+                                <label class="theme-switch" for="checkbox">
+                                    <input type="checkbox" id="checkbox">
+                                    <div class="mode-container">
+                                        <i class="gg-sun"></i>
+                                        <i class="gg-moon"></i>
+                                    </div>
+                                </label>
+                            </div>
+                        </nav>
+                    </div>
+                    <!-- //toggle switch for light and dark theme -->
+                </nav>
+            </div>
+        </header>
+        <!-- //header -->
+    
+    <div class="styled-paragraph">
+        <h1>DENTAL OASIS is here to take care of your health </h1>
+    <h2> Chat with us so that we can figure out your problem and make your life more pleasent and enjoyable,
+        Feel free to ask any health related questions.</h2> 
+        <h3> NOTE:- The suggestions by this chatbot is just for your reference kindly reach your doctor for any serious problem.
+    </h3> </div>
+
+    <div id="webchat" role="main"></div>
+    <script>
+        const webChatSecret = "rh30oY-vliE.NkVr1xeYb4NEE0Fd75lT9Lp85ssjc22IStjiNlO1evs";
+        window.WebChat.renderWebChat(
+            {
+                directLine: window.WebChat.createDirectLine({ token: webChatSecret }),
+                userID: 'YOUR_USER_ID',
+                username: 'YOUR_USERNAME',
+                locale: 'en-US',
+                styleOptions: {
+                    bubbleBackground: '#F4F4F4',
+                    bubbleFromUserBackground: '#F4F4F4'
+                }
+            },
+            document.getElementById('webchat')
+        );
+    </script>
+</body>
+</html>
