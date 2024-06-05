@@ -41,7 +41,7 @@ Presenting URL of our website ---- https://blue-wave-0914a9600.5.azurestaticapps
 
 PROJECT VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
 
-GITHUB REPOSITORY LINK :- 
+GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
 
 Here are some screenshots of our website
 
