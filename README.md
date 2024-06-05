@@ -29,13 +29,17 @@ AZURE HEALTH BOT(SCREENSHOT) ----- https://github.com/MOHITSAHU5649/DENTITION-DE
 
 Team members :-
 
-MOHIT SAHU https://github.com/MOHITSAHU5649
+1. MOHIT SAHU
+   MOHITSAHU5649 -- https://github.com/MOHITSAHU5649
 
-RIDDHIMA JAIN https://github.com/riddhima-j
+2. RIDDHIMA JAIN 
+   riddhima-j -- https://github.com/riddhima-j
 
-TANUJ KUMAR YADAV https://github.com/tanuj-26heisnbrg
+3. TANUJ KUMAR YADAV 
+   tanuj-26heisnbrg -- https://github.com/tanuj-26heisnbrg
 
-VISHESH SINGH RAJPUT https://github.com/Vishesh-Rajput
+4. VISHESH SINGH RAJPUT 
+   Vishesh-Rajput  -- https://github.com/Vishesh-Rajput
 
 Presenting URL of our website(project demo url) ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
 
