@@ -37,7 +37,7 @@ TANUJ KUMAR YADAV https://github.com/tanuj-26heisnbrg
 
 VISHESH SINGH RAJPUT https://github.com/Vishesh-Rajput
 
-Presenting URL of our website ---- https://blue-wave-0914a9600.5.azurestaticapps.net
+Presenting URL of our website ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
 
 PROJECT VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
 
