@@ -37,12 +37,14 @@ TANUJ KUMAR YADAV https://github.com/tanuj-26heisnbrg
 
 VISHESH SINGH RAJPUT https://github.com/Vishesh-Rajput
 
-Presenting URL of our website ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
+Presenting URL of our website(project demo url) ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
 
 PROJECT VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
 
 GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
 
+
+url of project through azure -- https://ashy-forest-0e8a7291e.5.azurestaticapps.net
 Here are some screenshots of our website
 
 HOME page -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/50c4004b-6d46-47ed-9d6e-ffef36351ee0 ABOUT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af SERVICES PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c CONTACT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE --------- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/46c85972-91e2-4919-882b-d7c1a94ea076 AZURE HEALTH BOT ------ https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/bc836df4-22f0-4ff0-8f0d-3a018d8fc2cc
