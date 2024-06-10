@@ -16,18 +16,25 @@ DENTAL OASIS, powered by DENTITION, is a web application designed to bridge the 
 
 HOMEPAGE
 ![homepage](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/48064f65-0f60-4a09-aaa5-95145b18280f)
+
 SERVICE PAGE
 ![service page](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/6688c96a-838d-45f2-b8e7-741b17e1819a)
+
 ABOUT PAGE
 ![about page](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/df2e0cbd-eedc-4e47-b7c8-e167ab5efece)
+
 HEALTH BOT
 ![health bot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/cd6350b1-a514-4106-96ce-3625fc3297d4)
+
 CONTACT US
 ![contact](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/27556c13-1139-40bf-a494-ff31865fdc90)
+
 STATIC WEB APP
 ![static web app](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5b01b228-f159-4407-aa59-da25d49d8c20)
+
 VIRTUAL MACHINE
 ![virtual machine](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/8ea8cdfc-dd1c-403b-83fa-212a820ac81d)
+
 AZURE AI HEALTH BOT 
 ![azure healthbot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5ad8f75f-e2db-44b0-af6b-d7804baf4d45)
 
@@ -35,7 +42,7 @@ AZURE AI HEALTH BOT
 
 
 
-connectivity:- 1.Dental Oasis Website: This represents the main website of Dental Oasis where patients interact and access various services. 2.Azure Static Web App: The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users' browsers. 3.Azure Virtual Machine: The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality. 4.Communication: The website communicates with both the Azure Health Bot and the backend application hosted on the virtual machine. The Azure Health Bot handles patient interactions, providing information, scheduling appointments, and conducting health assessments. The backend application handles other backend functionalities, such as managing patient data, processing requests, and integrating with other services.
+CONNECTIVITY:- 1.Dental Oasis Website: This represents the main website of Dental Oasis where patients interact and access various services. 2.Azure Static Web App: The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users' browsers. 3.Azure Virtual Machine: The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality. 4.Communication: The website communicates with both the Azure Health Bot and the backend application hosted on the virtual machine. The Azure Health Bot handles patient interactions, providing information, scheduling appointments, and conducting health assessments. The backend application handles other backend functionalities, such as managing patient data, processing requests, and integrating with other services.
 
 TECHNOLOGIES:- Frontend: HTML, CSS, JAVASCRIPT
 
