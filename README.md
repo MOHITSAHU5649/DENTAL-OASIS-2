@@ -71,9 +71,9 @@ Team members :-
 4. VISHESH SINGH RAJPUT 
    Vishesh-Rajput  -- https://github.com/Vishesh-Rajput
 
-Presenting URL of our website(project demo url) ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
+PROJECT DEMO URL  ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
 
-PROJECT VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
+PROJECT DEMO  VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
 
 GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
 
