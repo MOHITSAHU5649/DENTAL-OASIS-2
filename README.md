@@ -14,11 +14,26 @@ DENTAL OASIS, powered by DENTITION, is a web application designed to bridge the 
 
 -----------------------------------------------------SCREENSHOTS-------------------------------------------------------------
 
+HOMEPAGE
 ![homepage](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/48064f65-0f60-4a09-aaa5-95145b18280f)
+SERVICE PAGE
+![service page](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/6688c96a-838d-45f2-b8e7-741b17e1819a)
+ABOUT PAGE
+![about page](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/df2e0cbd-eedc-4e47-b7c8-e167ab5efece)
+HEALTH BOT
+![health bot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/cd6350b1-a514-4106-96ce-3625fc3297d4)
+CONTACT US
+![contact](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/27556c13-1139-40bf-a494-ff31865fdc90)
+STATIC WEB APP
+![static web app](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5b01b228-f159-4407-aa59-da25d49d8c20)
+VIRTUAL MACHINE
+![virtual machine](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/8ea8cdfc-dd1c-403b-83fa-212a820ac81d)
+AZURE AI HEALTH BOT 
+![azure healthbot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5ad8f75f-e2db-44b0-af6b-d7804baf4d45)
 
 
 
- ABOUT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af SERVICES PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c CONTACT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab
+
 
 connectivity:- 1.Dental Oasis Website: This represents the main website of Dental Oasis where patients interact and access various services. 2.Azure Static Web App: The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users' browsers. 3.Azure Virtual Machine: The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality. 4.Communication: The website communicates with both the Azure Health Bot and the backend application hosted on the virtual machine. The Azure Health Bot handles patient interactions, providing information, scheduling appointments, and conducting health assessments. The backend application handles other backend functionalities, such as managing patient data, processing requests, and integrating with other services.
 
@@ -55,7 +70,6 @@ GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
 url of project through azure -- https://ashy-forest-0e8a7291e.5.azurestaticapps.net
 Here are some screenshots of our website
 
-HOME page -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/50c4004b-6d46-47ed-9d6e-ffef36351ee0 ABOUT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af SERVICES PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c CONTACT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE --------- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/46c85972-91e2-4919-882b-d7c1a94ea076 AZURE HEALTH BOT ------ https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/bc836df4-22f0-4ff0-8f0d-3a018d8fc2cc
 
 Disclaimer: This project is for educational purposes only and should not be used for medical diagnosis or treatment.
 Please consult a licensed dentist for any dental concerns.
