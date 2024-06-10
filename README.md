@@ -14,7 +14,11 @@ DENTAL OASIS, powered by DENTITION, is a web application designed to bridge the 
 
 -----------------------------------------------------SCREENSHOTS-------------------------------------------------------------
 
-HOME page -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/50c4004b-6d46-47ed-9d6e-ffef36351ee0 ABOUT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af SERVICES PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c CONTACT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab
+![homepage](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/48064f65-0f60-4a09-aaa5-95145b18280f)
+
+
+
+ ABOUT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af SERVICES PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c CONTACT PAGE -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab
 
 connectivity:- 1.Dental Oasis Website: This represents the main website of Dental Oasis where patients interact and access various services. 2.Azure Static Web App: The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users' browsers. 3.Azure Virtual Machine: The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality. 4.Communication: The website communicates with both the Azure Health Bot and the backend application hosted on the virtual machine. The Azure Health Bot handles patient interactions, providing information, scheduling appointments, and conducting health assessments. The backend application handles other backend functionalities, such as managing patient data, processing requests, and integrating with other services.
 
