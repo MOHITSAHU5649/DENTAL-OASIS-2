@@ -39,12 +39,20 @@ connectivity:- 1.Dental Oasis Website: This represents the main website of Denta
 
 TECHNOLOGIES:- Frontend: HTML, CSS, JAVASCRIPT
 
-THE CORE AZURE SERVICES USED:- AZURE STATIC WEB APP Static Web App is a service provided by Microsoft Azure. It is designed to setup,configure,build, deploy, and host modern web applications. With the help of this users can easily navigate the site, learn about services, schedule appointments and contact the clinic. AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE(SCREENSHOT) --------- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/46c85972-91e2-4919-882b-d7c1a94ea076
+THE CORE AZURE SERVICES USED:- AZURE STATIC WEB APP Static Web App is a service provided by Microsoft Azure. It is designed to setup,configure,build, deploy, and host modern web applications. With the help of this users can easily navigate the site, learn about services, schedule appointments and contact the clinic. AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE(SCREENSHOT) ![static web app](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/fc30df32-346d-49d4-88d9-0d9f271b945b)
 
-AZURE VIRTUAL MACHINE Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security It manages the patient data, support development and monitor the activities AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE (SCREENSHOT)--------- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/46c85972-91e2-4919-882b-d7c1a94ea076
+
+AZURE VIRTUAL MACHINE Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security It manages the patient data, support development and monitor the activities AZURE STATIC WEB APP AND AZURE VIRTUAL MACHINE (SCREENSHOT) ![virtual machine](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/27b5e04f-1416-4440-ad2c-f852883078c8)
 
 AZURE HEALTH CHAT BOT Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support It enhanced patient experience and helps them to get the correct information
-AZURE HEALTH BOT(SCREENSHOT) ----- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/141635515/bc836df4-22f0-4ff0-8f0d-3a018d8fc2cc
+
+AZURE HEALTH BOT(SCREENSHOT) ![azure healthbot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/efbe2d66-17ec-4b56-9716-bbb0b4c35bcd)
+
+TEAM COORDINATIONS:-
+1. MOHIT SAHU - AZURE SERVICES AND LEADING
+2. RIDDHIMA JAIN - COORDINATION, HTML, CSS AND JAVASCRIPT
+3. TANUJ KUMAR YADAV - PROJECT TESTING
+4. VISHESH SINGH RAJPUT - HTML,CSS AND JAVASCRIPT
 
 Team members :-
 
