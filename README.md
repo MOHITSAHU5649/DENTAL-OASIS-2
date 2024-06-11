@@ -5,6 +5,9 @@ This project is made for educational purpose and it is mainly prepared for FRT p
                                  PROJECT NAME:- DENTITION
    
                                  INDUSTRY :- HEALTHCARE
+# Project Title :-
+
+Dental Oasis  by Dentition: Your Connected Smile Journey - Find Dentists, Book Appointments & Get Dental Insights                                 
       
 # Problem Statement:-
 
