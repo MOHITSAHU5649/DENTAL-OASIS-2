@@ -12,6 +12,35 @@ DESCRIPTION :-
 
 DENTAL OASIS, powered by DENTITION, is a web application designed to bridge the gap between patients and qualified dental care. It provides a user-friendly platform for patients to manage appointments, access educational resources, and connect with dentists virtually. Our platform offers a comprehensive solution for individuals seeking to maintain optimal oral health and enhance their smiles. This project was developed for an internship through the Future Ready Talent program, aiming to create a user-friendly and informative dental care platform. Find a Dentist: Search for and connect with a network of registered dentists in your area, 1.simplifying the selection process. 2.Appointment Booking: Schedule appointments directly through the platform, streamlining the scheduling process and saving valuable time. 3.Dental Resources: Access a library of informative resources on various dental procedures and best practices for maintaining oral hygiene. 4.Contact Us: Easily reach out to the Dental Oasis team for any inquiries or support you may require.
 
+
+PROJECT DEMO URL  ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
+
+PROJECT DEMO  VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
+
+GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
+
+
+url of project through azure -- https://ashy-forest-0e8a7291e.5.azurestaticapps.net
+
+
+TECHNOLOGIES:- Frontend: HTML, CSS, JAVASCRIPT
+
+THE CORE AZURE SERVICES USED:- 
+
+AZURE STATIC WEB APP 
+Static Web App is a service provided by Microsoft Azure. It is designed to setup,configure,build, deploy, and host modern web applications. With the help of this users can easily navigate the site, learn about services, schedule appointments and contact the clinic. ![static web app](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5b01b228-f159-4407-aa59-da25d49d8c20)
+
+AZURE VIRTUAL MACHINE Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security It manages the patient data, support development and monitor the activities
+![virtual machine](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/8ea8cdfc-dd1c-403b-83fa-212a820ac81d)
+
+AZURE HEALTH CHAT BOT Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support It enhanced patient experience and helps them to get the correct information
+![azure healthbot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5ad8f75f-e2db-44b0-af6b-d7804baf4d45)
+
+TEAM MEMBER COORDINATIONS:-
+1. MOHIT SAHU - AZURE SERVICES AND LEADING
+2. RIDDHIMA JAIN - COORDINATION, HTML, CSS AND JAVASCRIPT
+3. TANUJ KUMAR YADAV - PROJECT TESTING
+4. VISHESH SINGH RAJPUT - HTML,CSS AND JAVASCRIPT
 -----------------------------------------------------SCREENSHOTS-------------------------------------------------------------
 
 HOMEPAGE
@@ -40,53 +69,24 @@ AZURE AI HEALTH BOT
 
 
 
-
-
 CONNECTIVITY:- 1.Dental Oasis Website: This represents the main website of Dental Oasis where patients interact and access various services. 2.Azure Static Web App: The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users' browsers. 3.Azure Virtual Machine: The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality. 4.Communication: The website communicates with both the Azure Health Bot and the backend application hosted on the virtual machine. The Azure Health Bot handles patient interactions, providing information, scheduling appointments, and conducting health assessments. The backend application handles other backend functionalities, such as managing patient data, processing requests, and integrating with other services.
 
-TECHNOLOGIES:- Frontend: HTML, CSS, JAVASCRIPT
-
-THE CORE AZURE SERVICES USED:- 
-
-AZURE STATIC WEB APP 
-Static Web App is a service provided by Microsoft Azure. It is designed to setup,configure,build, deploy, and host modern web applications. With the help of this users can easily navigate the site, learn about services, schedule appointments and contact the clinic. ![static web app](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5b01b228-f159-4407-aa59-da25d49d8c20)
-
-AZURE VIRTUAL MACHINE Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. It is used for hosting our website, development and testing, it looks after data management and security It manages the patient data, support development and monitor the activities
-![virtual machine](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/8ea8cdfc-dd1c-403b-83fa-212a820ac81d)
-
-AZURE HEALTH CHAT BOT Azure Health Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered health conversational agents. It provides patient interaction, symptom evaluation , remote consultaion, telemedicine support It enhanced patient experience and helps them to get the correct information
-![azure healthbot](https://github.com/MOHITSAHU5649/DENTAL-OASIS-2/assets/141635515/5ad8f75f-e2db-44b0-af6b-d7804baf4d45)
 
 
-TEAM COORDINATIONS:-
-1. MOHIT SAHU - AZURE SERVICES AND LEADING
-2. RIDDHIMA JAIN - COORDINATION, HTML, CSS AND JAVASCRIPT
-3. TANUJ KUMAR YADAV - PROJECT TESTING
-4. VISHESH SINGH RAJPUT - HTML,CSS AND JAVASCRIPT
 
 Team members :-
 
 1. MOHIT SAHU
-   MOHITSAHU5649 -- https://github.com/MOHITSAHU5649
+         (MOHITSAHU5649) -- https://github.com/MOHITSAHU5649
 
 2. RIDDHIMA JAIN 
-   riddhima-j -- https://github.com/riddhima-j
+        (riddhima-j)-- https://github.com/riddhima-j
 
-3. TANUJ KUMAR YADAV 
-   tanuj-26heisnbrg -- https://github.com/tanuj-26heisnbrg
+3. TANUJ KUMAR YADAV
+       (tanuj-26heisnbrg) -- https://github.com/tanuj-26heisnbrg
 
-4. VISHESH SINGH RAJPUT 
-   Vishesh-Rajput  -- https://github.com/Vishesh-Rajput
-
-PROJECT DEMO URL  ---- https://mohitsahu5649.github.io/DENTAL-OASIS-2/
-
-PROJECT DEMO  VIDEO URL -- https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03
-
-GITHUB REPOSITORY LINK :- https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
-
-
-url of project through azure -- https://ashy-forest-0e8a7291e.5.azurestaticapps.net
-Here are some screenshots of our website
+5. VISHESH SINGH RAJPUT 
+      (Vishesh-Rajput)  -- https://github.com/Vishesh-Rajput
 
 
 Disclaimer: This project is for educational purposes only and should not be used for medical diagnosis or treatment.
